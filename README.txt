@@ -1,7 +1,7 @@
 Introduction
 ============
 
-Provides alternative to 'bin/plone debug' with sane defaults.
+Provides alternative to 'bin/plone debug'.
 
 Install
 -------
